@@ -169,8 +169,6 @@ dl.kv dd { margin: 0; text-align: right; font-size: 0.875rem; }
 .paper-button { background: var(--accent); color: var(--bg); border-color: var(--accent); }
 .paper-button:hover { background: var(--ink); border-color: var(--ink); }
 .home .btn.ghost:hover { background: var(--accent-soft); border-color: var(--accent); }
-.paper-meta { display: flex; flex-wrap: wrap; gap: 9px; margin: 16px 0 0; color: var(--muted); font: 0.625rem/1.5 var(--font-mono); }
-.paper-meta > span { color: var(--rule-strong); }
 .experiment { position: relative; padding: 30px 28px 24px; background: #193f35; color: #eff4e8; border-radius: 8px; }
 .experiment::after { content: ""; position: absolute; width: 28px; height: 28px; right: 13px; bottom: 13px; border-right: 1px solid #59756a; border-bottom: 1px solid #59756a; pointer-events: none; }
 .experiment-label { margin: 0 0 34px; color: #b4c9b9; font: 0.625rem/1.5 var(--font-mono); text-transform: uppercase; letter-spacing: 0.14em; }
@@ -485,7 +483,6 @@ blockquote.ex p { margin: 2px 0 0; font: italic 0.9375rem/1.55 var(--font-prose)
   .affiliation span { display: inline; margin-top: 0; }
   .affiliation span::before { content: " · "; }
   .hero-actions { margin-top: 16px; }
-  .paper-meta { margin-top: 10px; }
   .experiment { align-self: stretch; display: flex; flex-direction: column; justify-content: space-between; padding: 20px 22px; }
   .experiment-label { margin-bottom: 16px; }
   .experiment-step { gap: 12px; }
@@ -532,7 +529,6 @@ blockquote.ex p { margin: 2px 0 0; font: italic 0.9375rem/1.55 var(--font-prose)
   .authors > span { margin: 0 4px; }
   .hero-actions { gap: 8px; margin-top: 24px; }
   .home .btn { padding: 11px 12px; gap: 9px; font-size: 0.75rem; }
-  .paper-meta { font-size: 0.5625rem; gap: 7px; }
   .experiment { padding: 24px; }
   .experiment-label { margin-bottom: 26px; }
   .task-example { padding-top: 36px; }

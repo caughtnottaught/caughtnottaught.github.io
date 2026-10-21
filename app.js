@@ -683,7 +683,7 @@
       '<div class="hero-actions"><a class="btn paper-button" href="https://arxiv.org/pdf/2610.26935" target="_blank" rel="noopener noreferrer">' +
       '<svg width="17" height="18" viewBox="0 0 20 22" fill="none" aria-hidden="true"><path d="M4 1h8l5 5v15H4zM12 1v6h5M7 12h7M7 16h5" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/></svg> Read the paper <span aria-hidden="true">↗</span></a>' +
       '<button class="btn ghost" type="button" data-action="jump" data-target="explore">Explore transcripts <span aria-hidden="true">↓</span></button></div>' +
-      '<p class="paper-meta">Research paper <span aria-hidden="true">/</span> arXiv:2610.26935 <span aria-hidden="true">/</span> October 2026</p></header>' +
+      '</header>' +
       '<aside class="experiment" aria-label="Experiment overview"><p class="experiment-label">Inside the experiment</p>' +
       '<div class="experiment-step"><span class="step-number">01</span><div><h2>An agent attempts a task.</h2><p>The submission is evaluated.</p></div></div>' +
       '<div class="history-branch"><p>Vary the history it receives</p><div class="history-options"><span><i class="t-caught" aria-hidden="true"></i>Told replaced</span><span><i class="t-shown" aria-hidden="true"></i>Shown replacement</span><span><i class="t-accepted" aria-hidden="true"></i>Accepted</span></div></div>' +
